@@ -2,7 +2,7 @@
 Details of all projects I worked on while on the Ingressive4GoodxDataCamp scholarship program
 
 ## Guided projects include:
-1. [A Network Analysis of Game of Thrones](Guided/A%Network%Analysis%of%Game%of%Thrones)
+1. [A Network Analysis of Game of Thrones](Guided/A%20Network%20Analysis%20of%20Game%20of%20Thrones)
 2. [A Visual History of Nobel Prize Winners](Guided/A-Visual-History-of-Nobel-Prize-Winners)
 3. [Analysing Tv Data](Guided/Analysing-Tv-Data)
 4. [Exploring the Bitcoin Cryptocurrency Market](Guided/Exploring-the-Bitcoin-Cryptocurrency-Market)
