@@ -13,4 +13,4 @@ Details of all projects I worked on while on the Ingressive4GoodxDataCamp schola
 9. [The GitHub History of the Scala Language](Guided/The%20GitHub%20History%20of%20the%20Scala%20Language)
 
 ## Unguided projects include:
-1. [Exploring the Evolution of Lego](datacamp_projects/Unguided/Exploring%20the%20Evolution%20of%20Lego)
+1. [Exploring the Evolution of Lego](Unguided/Exploring%20the%20Evolution%20of%20Lego)
