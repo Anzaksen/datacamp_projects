@@ -14,3 +14,4 @@ Details of all projects I worked on while on the Ingressive4GoodxDataCamp schola
 
 ## Unguided projects include:
 1. [Exploring the Evolution of Lego](Unguided/Exploring%20the%20Evolution%20of%20Lego)
+2. [Investigating Netflix Movies and Guest Stars in The Office](Unguided/Investigating_Netflix_Movies_and_Guest_Stars_in_The_Office)
